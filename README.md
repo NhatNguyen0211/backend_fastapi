@@ -4,9 +4,11 @@ To run this project, install it locally using poetry:
 ```
 $ pip install poetry (or pip3 install poetry)
 ```
+### To install dependences
 ```
 $ poetry install (to install dependences)
 ```
+### To create a virtualenv(.venv)
 ```
 $ poetry shell 
 ```
